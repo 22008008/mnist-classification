@@ -225,9 +225,8 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/22008008/mnist-classification/assets/118343520/137eab6c-bc88-4b2a-944f-e7391ddd74ce)
+![image](https://github.com/22008008/mnist-classification/assets/118343520/3f6b1a3d-2bd4-4bbb-8435-14dc09572894)
 
-![image](https://github.com/22008008/mnist-classification/assets/118343520/b65631ce-7aec-4598-b75c-f5f86cca617a)
 
 ### Classification Report
 
